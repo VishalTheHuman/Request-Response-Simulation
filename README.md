@@ -1,5 +1,5 @@
 # Request Response : Simulation
-![banner](https://github.com/VishalTheHuman/Request-Response-Simulation/assets/117697246/9e6d8948-1e65-43ae-9294-0cb73b6e782d)
+![banner](assets/banner.png)
 
 
 ## **Description 📝**
